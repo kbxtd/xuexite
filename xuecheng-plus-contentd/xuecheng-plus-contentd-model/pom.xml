@@ -20,6 +20,12 @@
             <artifactId>mybatis-plus-annotation</artifactId>
             <version>${mybatis-plus-boot-starter.version}</version>
         </dependency>
+        <!-- Spring Boot 测试依赖 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
         <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-core</artifactId>
