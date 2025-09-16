@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-base/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-content/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content-model/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-contentd/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-contentd/xuecheng-plus-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-contentd/xuecheng-plus-contentd-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-contentd/xuecheng-plus-contentd-model/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-contentd/xuecheng-plus-contentd-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

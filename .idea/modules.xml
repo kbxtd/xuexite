@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content.iml" filepath="$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content-api/xuecheng-plus-content-api.iml" filepath="$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content-api/xuecheng-plus-content-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content-model/xuecheng-plus-content-model.iml" filepath="$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content-model/xuecheng-plus-content-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content-service/xuecheng-plus-content-service.iml" filepath="$PROJECT_DIR$/xuecheng-content/xuecheng-plus-content-service/xuecheng-plus-content-service.iml" />
+    </modules>
+  </component>
+</project>
